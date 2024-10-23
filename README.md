@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplabganguly&label=Profile%20views&color=0e75b6&style=flat" alt="biplabganguly" /> </p>
 
-- 🔭 I’m currently working on [Competitive Edge](https://github.com/BiplabGanguly/competitiveEdge.git)
-
-- 🌱 I’m currently learning **React JS and Next JS**
 
 - 📫 How to reach me **biplab123.abcd@gmail.com**
 
